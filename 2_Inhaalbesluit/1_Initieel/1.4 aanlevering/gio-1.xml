@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
+<lvbba:AanleveringInformatieObject xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   schemaversie="1.2.0"
+   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
+   <lvbba:InformatieObjectVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/join/id/regdata/gm0363/2025/IO_2025071016_0503238_1-gio-1</data:FRBRWork>
+         <data:FRBRExpression>/join/id/regdata/gm0363/2025/IO_2025071016_0503238_1-gio-1/nld@2025-07-10;1</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_010</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <data:InformatieObjectVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:heeftGeboorteregeling>/akn/nl/act/gm0363/2025/R_2025071016_0503238</data:heeftGeboorteregeling>
+         <data:heeftBestanden>
+            <data:heeftBestand>
+               <data:Bestand>
+                  <data:bestandsnaam>gio-1.gml</data:bestandsnaam>
+                  <data:hash>73f47feb7bbe38784a9dd149d5e8a36259ef18bcd1239fd4aef2467f9d52425b6b45b28d41768804652cae7841092341b5517b70c1490934a49fe922bfce17b5</data:hash>
+               </data:Bestand>
+            </data:heeftBestand>
+         </data:heeftBestanden>
+      </data:InformatieObjectVersieMetadata>
+      <data:InformatieObjectMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:eindverantwoordelijke>/tooi/id/gemeente/gm0363</data:eindverantwoordelijke>
+         <data:maker>/tooi/id/gemeente/gm9920</data:maker>
+         <data:alternatieveTitels>
+            <data:alternatieveTitel>alternatieve-titel IO gio-1</data:alternatieveTitel>
+         </data:alternatieveTitels>
+         <data:naamInformatieObject>naam IO gio-1</data:naamInformatieObject>
+         <data:officieleTitel>/join/id/regdata/gm0363/2025/IO_2025071016_0503238_1-gio-1</data:officieleTitel>
+         <data:publicatieinstructie>TeConsolideren</data:publicatieinstructie>
+         <data:formaatInformatieobject>/join/id/stop/informatieobject/gio_002</data:formaatInformatieobject>
+      </data:InformatieObjectMetadata>
+   </lvbba:InformatieObjectVersie>
+</lvbba:AanleveringInformatieObject>
