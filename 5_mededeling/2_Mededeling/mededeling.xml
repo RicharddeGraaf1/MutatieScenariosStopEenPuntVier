@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringMededeling xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   schemaversie="1.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  schemaversie="1.3.0"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
    <MededelingVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/doc/gm0363/2023/M_2023081815_2602968_2</FRBRWork>
@@ -16,7 +16,9 @@
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
          <soortMededeling>/join/id/stop/soortmededeling_001</soortMededeling>
-         <mededelingOver>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_1</mededelingOver>
+         <mededelingOverRefs>
+            <mededelingOver>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_1</mededelingOver>
+         </mededelingOverRefs>
       </MededelingMetadata>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>

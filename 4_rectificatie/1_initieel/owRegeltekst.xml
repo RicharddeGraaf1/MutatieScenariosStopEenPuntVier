@@ -17,7 +17,7 @@
    xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
    xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v3.1.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
-      <slset>Voorbeeld-dataset</slset>
+      <sl:dataset>Voorbeeld-dataset</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Voorbeeld-gebied</sl:gebied>
          <sl:leveringsId>ID-IMOW-2023080315-2919671-1</sl:leveringsId>
