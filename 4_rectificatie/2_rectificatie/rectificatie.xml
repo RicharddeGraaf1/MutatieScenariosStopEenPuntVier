@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<lvbba:AanleveringRectificatie xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   schemaversie="1.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-stop-aanlevering.xsd">
-   <lvbba:RectificatieVersie>
+<AanleveringRectificatie xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  schemaversie="1.3.0"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
+   <RectificatieVersie>
       <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork>/akn/nl/doc/gm9920/2023/K_2023081815_2602968_2</data:FRBRWork>
          <data:FRBRExpression>/akn/nl/doc/gm9920/2023/K_2023081815_2602968_2/nld@2023-08-18;2</data:FRBRExpression>
@@ -12,7 +12,7 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0363</maker>
          <officieleTitel>Rectificatie</officieleTitel>
-         <rectificeert>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_1/nld@2023-08-03;1</rectificeert>
+         <mededelingOver>/akn/nl/bill/gm0363/2023/B_2023080315_2919671_1/nld@2023-08-03;1</mededelingOver>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
          </onderwerpen>
@@ -85,5 +85,5 @@
             </Rectificatietekst>
          </Lichaam>
       </Rectificatie>
-   </lvbba:RectificatieVersie>
-</lvbba:AanleveringRectificatie>
+   </RectificatieVersie>
+</AanleveringRectificatie>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+<?xml version="1.0" encoding="utf-8"?>
+<mow:Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
+   xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v3.1.0/bestanden-ow/generiek/manifest-ow.xsd">
    <mow:domein>omgevingswet</mow:domein>
    <mow:Aanlevering>
       <mow:WorkIDRegeling>/akn/nl/act/gm0363/2023/R_2023080315_2919671</mow:WorkIDRegeling>
