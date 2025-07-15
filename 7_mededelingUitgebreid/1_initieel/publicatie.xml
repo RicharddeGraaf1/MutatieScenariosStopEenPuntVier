@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lvbba:AanleveringBesluit xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                          schemaversie="1.2.0">
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  schemaversie="1.3.0"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
    <lvbba:BesluitVersie>
       <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
          <data:FRBRWork>/akn/nl/bill/gm0363/2023/initieelAanlevering_doel1</data:FRBRWork>
