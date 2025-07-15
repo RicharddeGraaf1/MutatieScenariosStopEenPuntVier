@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringRectificatie xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="">
+<AanleveringRectificatie xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  schemaversie="1.3.0"
+   xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
    <RectificatieVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/doc/gm0363/2023/Rev_202308018</FRBRWork>
@@ -8,8 +10,15 @@
       </ExpressionIdentificatie>
       <RectificatieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1/nld@2023-08-18;3</informatieobjectRef>
+         </informatieobjectRefs>
          <maker>/tooi/id/gemeente/gm0363</maker>
+         <mededelingOver>/akn/nl/bill/gm0363/2023/B_2023081813_3541928_2</mededelingOver>
          <officieleTitel>Rectificatie van regelingversie 2 en 3, we waren te laat met consolideren</officieleTitel>
+         <onderwerpen>
+               <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp> 
+         </onderwerpen>
       </RectificatieMetadata>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
@@ -18,11 +27,11 @@
                   <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_4</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</instrumentVersie>
-               <gemaaktOpBasisVan>
-                  <VervlochtenVersie>
+               <gerelateerdeVersies>
+                  <Vervlechting>
                      <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</instrumentVersie>
-                  </VervlochtenVersie>
-               </gemaaktOpBasisVan>
+                  </Vervlechting>
+               </gerelateerdeVersies>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>

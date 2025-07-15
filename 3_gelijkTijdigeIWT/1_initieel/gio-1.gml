@@ -1,6 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<geo:GeoInformatieObjectVaststelling xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-                                     schemaversie="1.3.0">
+<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
+   xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
+   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+   xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
+   xmlns:gml="http://www.opengis.net/gml/3.2"
+   xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   schemaversie="1.3.0"
+   xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/stop/1.4.1/imop-geo.xsd">
    <geo:context>
       <gio:GeografischeContext xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/">
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
