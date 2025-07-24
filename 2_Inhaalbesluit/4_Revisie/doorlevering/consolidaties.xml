@@ -71,11 +71,6 @@
                 </consolidatie:geldigheid>
                 <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</consolidatie:instrumentVersie>
             </consolidatie:BekendeToestand>
-            <!--ToestandTerugtrekking denk ik niet bij alle vervolgberichten, of willen we dat wel?-->
-<!--            <consolidatie:ToestandTerugtrekking>
-                <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</consolidatie:doel>
-                <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</consolidatie:instrumentVersie>
-            </consolidatie:ToestandTerugtrekking>-->
         </consolidatie:Toestanden>
         <lvbbu:RegelingVersie schemaversie="1.2.0">
             <data:ExpressionIdentificatie

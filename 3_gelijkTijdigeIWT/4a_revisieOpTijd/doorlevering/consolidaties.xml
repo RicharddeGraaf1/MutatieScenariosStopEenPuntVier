@@ -1,5 +1,5 @@
 <lvbbu:Consolidaties xmlns:lvbbu="https://standaarden.overheid.nl/lvbb/stop/uitlevering/"
-    schemaversie="1.6.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    schemaversie="1.8.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/main/lvbb-ozon/lvbb-stop-uitlevering.xsd">
     <lvbbu:Consolidatie>
         <consolidatie:ConsolidatieIdentificatie
@@ -52,11 +52,6 @@
                 </consolidatie:geldigheid>
                 <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023081813_3541928/nld@4</consolidatie:instrumentVersie>
             </consolidatie:BekendeToestand>
-            <consolidatie:ToestandTerugtrekking>
-                <consolidatie:doel>/join/id/proces/gm0363/2023/D_2023081813_3541928_4</consolidatie:doel>
-                <consolidatie:instrumentVersie>/akn/nl/act/gm0363/2023/R_2023081813_3541928/nld@2</consolidatie:instrumentVersie>
-            </consolidatie:ToestandTerugtrekking>
-            <!--To-do de proefversie van 3 verwerken-->
         </consolidatie:Toestanden>
         <lvbbu:RegelingVersie schemaversie="1.2.0">
             <data:ExpressionIdentificatie

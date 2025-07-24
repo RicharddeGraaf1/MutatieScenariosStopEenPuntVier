@@ -3,6 +3,29 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  schemaversie="1.3.0"
    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb https://raw.githubusercontent.com/RicharddeGraaf1/schemaTestsRichard/refs/heads/main/1.4.1/lvbb/lvbb-stop-aanlevering.xsd">
    <RevisieVersie>
+     <!--      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/doc/gm0363/2023/Rev_202308018</FRBRWork>
+         <FRBRExpression>/akn/nl/doc/gm0363/2023/Rev_202308018/nld@1</FRBRExpression>
+         <soortWork>/join/id/stop/work_018</soortWork> <!-\-is eigenlijk rectificatie, maar goed ik had niets anders qua soortwork-\->
+      </ExpressionIdentificatie>-->
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
+                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_3</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</instrumentVersie>
+               <gerelateerdeVersies>
+                  <Vervlechting>
+                     <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@2</instrumentVersie>
+                     <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</instrumentVersie>
+                  </Vervlechting>
+               </gerelateerdeVersies>
+            </BeoogdeRegeling>
+         </BeoogdeRegelgeving>
+         <!--Geen Tijdstempels want neem je over van de twee doelen.-->
+      </ConsolidatieInformatie>
       <Tekstrevisie xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingMutatie componentnaam="boeie" was="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@1" wordt="/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4">
             <VoegToe context="gm0363_1__chp_1__art_1" positie="volgtOp">
@@ -67,47 +90,7 @@
             </VoegToe>
          </RegelingMutatie>
       </Tekstrevisie>
-<!--      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/doc/gm0363/2023/Rev_202308018</FRBRWork>
-         <FRBRExpression>/akn/nl/doc/gm0363/2023/Rev_202308018/nld@1</FRBRExpression>
-         <soortWork>/join/id/stop/work_018</soortWork> <!-\-is eigenlijk rectificatie, maar goed ik had niets anders qua soortwork-\->
-      </ExpressionIdentificatie>-->
-      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <BeoogdeRegelgeving>
-            <BeoogdeRegeling>
-               <doelen>
-                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
-               </doelen>
-               <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@4</instrumentVersie>
-               <gerelateerdeVersies>
-                  <Vervlechting>
-                     <instrumentVersie>/akn/nl/act/gm0363/2023/R_2023080315_2919671/nld@3</instrumentVersie>
-                  </Vervlechting>
-               </gerelateerdeVersies>
-            </BeoogdeRegeling>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_2-gio-1/nld@2023-08-18;2</instrumentVersie>
-               <eId>!boeie#cmp_ebc2__content_1__ref_1</eId>
-            </BeoogdInformatieobject>
-            <BeoogdInformatieobject>
-               <doelen>
-                  <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
-               </doelen>
-               <instrumentVersie>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1/nld@2023-08-18;3</instrumentVersie>
-               <eId>!boeie#cmp_ebc3__content_1__ref_1</eId>
-            </BeoogdInformatieobject>
-         </BeoogdeRegelgeving>
-         <Tijdstempels>
-            <Tijdstempel>
-               <doel>/join/id/proces/gm0363/2023/D_2023080315_2919671_2</doel>
-               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2025-09-01</datum>
-            </Tijdstempel>
-         </Tijdstempels>
-      </ConsolidatieInformatie>
+      
       </RevisieVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">

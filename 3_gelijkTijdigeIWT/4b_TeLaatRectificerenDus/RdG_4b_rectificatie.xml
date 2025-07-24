@@ -10,9 +10,6 @@
       </ExpressionIdentificatie>
       <RectificatieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm0363</eindverantwoordelijke>
-         <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/gm0363/2023/IO_2023081813_3541928_3-gio-1/nld@2023-08-18;3</informatieobjectRef>
-         </informatieobjectRefs>
          <maker>/tooi/id/gemeente/gm0363</maker>
          <mededelingOver>/akn/nl/bill/gm0363/2023/B_2023081813_3541928_2</mededelingOver>
          <officieleTitel>Rectificatie van regelingversie 2 en 3, we waren te laat met consolideren</officieleTitel>
