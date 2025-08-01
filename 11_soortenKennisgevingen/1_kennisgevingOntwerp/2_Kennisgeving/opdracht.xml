@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbb:publicatieOpdracht xmlns:lvbb="http://www.overheid.nl/2017/lvbb">
+   <lvbb:idLevering>TC03_02b_Kennisgeving_voegStappenToe_ontwerpbesluit_2025073023_0928479_2</lvbb:idLevering>
+   <lvbb:idBevoegdGezag>00000001003214345000</lvbb:idBevoegdGezag>
+   <lvbb:idAanleveraar>00000001003214345000</lvbb:idAanleveraar>
+   <lvbb:publicatie>publicatie.xml</lvbb:publicatie>
+   <lvbb:datumBekendmaking>2025-08-04</lvbb:datumBekendmaking>
+</lvbb:publicatieOpdracht>
