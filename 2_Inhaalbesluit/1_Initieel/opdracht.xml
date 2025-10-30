@@ -6,9 +6,9 @@
    <lvbb:idBevoegdGezag>00000001003214345000</lvbb:idBevoegdGezag>
    <lvbb:idAanleveraar>00000001003214345000</lvbb:idAanleveraar>
    <!--optioneel toegevoegd, zodat we dit kunnen gaan gebruiken, yay!-->
-   <lvbb:softwareVersie>
+<!--   <lvbb:softwareVersie>
       <lvbb:leverancier>PietjePuk</lvbb:leverancier>
-   </lvbb:softwareVersie>
+   </lvbb:softwareVersie>-->
    <lvbb:publicatie>publicatie.xml</lvbb:publicatie>
-   <lvbb:datumBekendmaking>2025-07-21</lvbb:datumBekendmaking>
+   <lvbb:datumBekendmaking>2025-10-31</lvbb:datumBekendmaking>
 </lvbb:publicatieOpdracht>

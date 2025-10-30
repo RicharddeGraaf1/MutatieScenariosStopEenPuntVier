@@ -1,0 +1,193 @@
+<XPOs>
+	<!--gemeenteblad-->
+	<xpo versie="4" id="5fb88d66-7d67-4375-84f8-1c6028da0475" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenwork>
+			<work label="gmb-2025-28260">
+				<metadata>
+					<DC.creator>Dordrecht</DC.creator>
+					<DC.identifier>gmb-2025-28260</DC.identifier>
+					<DC.title>Officiele titel van de aanlevering</DC.title>
+					<DC.type>ruimtelijk plan of omgevingsdocument</DC.type>
+					<DCTERMS.available>2025-11-03</DCTERMS.available>
+					<OVERHEIDop.publicationName>Gemeenteblad</OVERHEIDop.publicationName>
+					<is_privacygevoelig>false</is_privacygevoelig>
+					<is_spoedpublicatie>false</is_spoedpublicatie>
+					<sorteersleutel>12345</sorteersleutel>
+					<organisatieTooiId>https://identifier.overheid.nl/tooi/id/gemeente/gm0505</organisatieTooiId>
+					<creatiedatum>2025-11-03</creatiedatum>
+				</metadata>
+				<expression label="1">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>5001</size>
+							<hashcode>b3e75de6f2b1c38f97c29ea55acdd4b89160e8131d8baffda60558bf026d19ea42178c7c4ce423391ce6b59a891801c0483b6ad07aaeec80020ade9f40e3c494</hashcode>
+						</metadata>
+						<item label="gmb-2025-28260.xml" protocol="SMB" adres="./gmb/gmb-2025-28260/1/xml/gmb-2025-28260.xml"/>
+					</manifestation>
+					<manifestation label="metadataowms">
+						<metadata>
+							<size>1882</size>
+							<hashcode>dbd3fcfb061dacf5b42fc49fa0526dafdec4f9f75648386b749af9150265426025b3b453c915e2d5c5798fc75300dc18b3f627affdf8ae1d657e7c5c1bc72a95</hashcode>
+						</metadata>
+						<item label="metadata_owms.xml" protocol="SMB" adres="./gmb/gmb-2025-28260/1/metadataowms/metadata_owms.xml"/>
+					</manifestation>
+					<manifestation label="metadata">
+						<metadata>
+							<size>2041</size>
+							<hashcode>836d37918e87f83c60e4ba56df9727b911a742611137459704582d0ab912794a01ab7af5d30399bc2536fbf46091557705541f95bb5ddb7d5ccaa6ca45a95d0d</hashcode>
+						</metadata>
+						<item label="metadata.xml" protocol="SMB" adres="./gmb/gmb-2025-28260/1/metadata/metadata.xml"/>
+					</manifestation>
+					<manifestation label="html">
+						<metadata>
+							<size>1132</size>
+							<hashcode>ae96bfa46f91705c888484acbb1dd3c62b1af1336f5ce3d7395c270490357dbbeb0a6d90e1e0e6eda09bee26c4e60a6122d23839427578e3cdf393df0f5006e6</hashcode>
+						</metadata>
+						<item label="gmb-2025-28260.html" protocol="SMB" adres="./gmb/gmb-2025-28260/1/html/gmb-2025-28260.html.zip"/>
+					</manifestation>
+					<manifestation label="pdf">
+						<metadata>
+							<size>248207</size>
+							<hashcode>986bd29d03bd9859a7d26c9809a84177e0c94ec1dee82c84c81ec00e0fd90ff961c5ccac5cc212343030969e01aef1c08a90beb42dbf90513b6458ef84be4aa2</hashcode>
+						</metadata>
+						<item label="gmb-2025-28260.pdf" protocol="SMB" adres="./gmb/gmb-2025-28260/1/pdf/gmb-2025-28260.pdf"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>Gemeenteblad</area>
+				<publicerenNa>2025-11-03T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-04T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-StcrtBvasRuimtelijkPlan-AS-BM/1.26/xml/MC-LVBB-StcrtBvasRuimtelijkPlan-AS-BM.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+			</stuurgegevens>
+		</toevoegenwork>
+	</xpo>
+	<!--datacollectie-->
+	<xpo versie="4" id="d2826a56-a067-44c6-96b2-6763f0e8534f" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenwork>
+			<work label="dc-2025-68598">
+				<metadata>
+					<DC.title>naam IO gio-1</DC.title>
+					<DC.creator>Dordrecht</DC.creator>
+					<DC.identifier>dc-2025-68598</DC.identifier>
+					<DC.type>Geometrie</DC.type>
+					<DCTERMS.available>2025-11-03</DCTERMS.available>
+					<DCTERMS.language>nl</DCTERMS.language>
+					<OVERHEIDop.jaargang>2025</OVERHEIDop.jaargang>
+					<OVERHEIDop.publicationIssue>68598</OVERHEIDop.publicationIssue>
+					<OVERHEIDop.publicationName>Informatieobject</OVERHEIDop.publicationName>
+					<CUP.JoinWorkUri>/join/id/regdata/gm0505/2025/IO_2025103011_5031749_1-gio-1</CUP.JoinWorkUri>
+					<Category>GIO</Category>
+				</metadata>
+				<expression label="1">
+					<metadata>
+						<CUP.JoinExpressionUri>/join/id/regdata/gm0505/2025/IO_2025103011_5031749_1-gio-1/nld@2025-10-30;1</CUP.JoinExpressionUri>
+					</metadata>
+					<manifestation label="xml">
+						<metadata>
+							<size>1527</size>
+							<hashcode>eb14e75066be18b29516355f9081ac04f407f8ff03a71deeed29cc7c5bcfd4d6169a1f67e62731502d48fb5a5e5bb98167bd867cbfd5dc9815dcea531cf6c359</hashcode>
+						</metadata>
+						<item label="dc-2025-68598_km.xml" protocol="SMB" adres="./dc/dc-2025-68598/1/xml/dc-2025-68598_km.xml"/>
+					</manifestation>
+					<manifestation label="metadata">
+						<metadata>
+							<size>1486</size>
+							<hashcode>5051d62934b3f9ff0fbbb50683bded6b3974713ed761cf890c424a4fe4c5ac3b192b450c5adf8fec66ed97eecf8801b72a4335fd71f4e84c7c13903ec1d46780</hashcode>
+						</metadata>
+						<item label="metadata.xml" protocol="SMB" adres="./dc/dc-2025-68598/1/metadata/metadata.xml"/>
+					</manifestation>
+					<manifestation label="gml">
+						<metadata>
+							<size>845</size>
+							<hashcode>6369f9b862ab6e84f9e68017632e941a300a736604e08dd38cdae785874a32b044c01ecc1d48b27703f3c8f9b2e2a94a539684e47465dd08a2daca53a2e8b778</hashcode>
+						</metadata>
+						<item label="dc-2025-68598.gml" protocol="SMB" adres="./dc/dc-2025-68598/1/gml/dc-2025-68598.gml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>Datacollectie</area>
+				<publicerenNa>2025-11-03T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-04T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-GIO-AS-BM/1.14/xml/MC-LVBB-GIO-AS-BM.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>1</ExpressionLabel>
+			</stuurgegevens>
+		</toevoegenwork>
+	</xpo>
+	<!--cvdr wti-->
+	<xpo versie="4" id="59c113ca-2a2a-4e18-b626-903a39af4c53" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<bijwerkenwork>
+			<work label="CVDR693449">
+				<wti label="CVDR693449.wti" protocol="SMB" adres="./cvdr/CVDR693449/CVDR693449.wti" size="2951" hash="a7ce159c30f99d9c4c993b27248c87bd9bf72e839b9918953c4e73466247b5a09467dfdd841d3b8bdb1000f575e963c1802cd4225503961743c670015c2735c0"/>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-03T09:15:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-04T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+			</stuurgegevens>
+		</bijwerkenwork>
+	</xpo>
+	<!--cvdr regeling-->
+	<xpo versie="4" id="53d38c63-4b53-4c70-83a1-9ea1838bc143" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenwork>
+			<work label="CVDR693449">
+				<metadata/>
+				<expression label="1">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1404</size>
+							<hashcode>f56b7630cedecb399c3ed6cfe9264ed839c5f19f2accfc9c868f7b6bf3b402c0623d3b733b0f2a637bdbd764c40704f558955bac39e7ded8461cd8447efc9b4e</hashcode>
+						</metadata>
+						<item label="CVDR693449_1.xml" protocol="SMB" adres="./cvdr/CVDR693449/1/xml/CVDR693449_1.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-10-30T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-10-31T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>1</ExpressionLabel>
+			</stuurgegevens>
+		</toevoegenwork>
+	</xpo>
+	<!--cio-->
+	<xpo versie="4" id="f2e5f74e-d17e-4f27-a8a7-336e0e8707ca" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenwork>
+			<work label="dc-2025-68599">
+				<metadata>
+					<DC.title>naam IO gio-1</DC.title>
+					<DC.identifier>dc-2025-68599</DC.identifier>
+					<DC.type>Geometrie</DC.type>
+					<Category>CIO</Category>
+				</metadata>
+				<expression label="1">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1798</size>
+							<hashcode>7ea106e02aaa0120ec4c4fb2dada546ec50a1f04129151ca321817ed4a46e73520d2dbda9491225131b86a45e9b73c9d2c2c8270be29bd0df524cd61cc026a86</hashcode>
+						</metadata>
+						<item label="dc-2025-68599_1.xml" protocol="SMB" adres="./dc/dc-2025-68599/1/xml/dc-2025-68599_1.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>Datacollectie</area>
+				<publicerenNa>2025-10-30T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-10-31T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-CGIO-AS/1.8/xml/MC-LVBB-CGIO-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>1</ExpressionLabel>
+			</stuurgegevens>
+		</toevoegenwork>
+	</xpo>
+</XPOs>
