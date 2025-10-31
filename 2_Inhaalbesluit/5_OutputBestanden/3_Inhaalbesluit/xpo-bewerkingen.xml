@@ -1,0 +1,188 @@
+<XPOs>
+	<!--gemeenteblad, niets bijzonders, gewoon een nieuwe-->
+	<xpo versie="4" id="54810326-fb69-428d-a6f0-89ce90f07c91" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenwork>
+			<work label="gmb-2025-28251">
+				<metadata>
+					<DC.creator>'s-Gravenhage</DC.creator>
+					<DC.identifier>gmb-2025-28251</DC.identifier>
+					<DC.title>Officiele titel van de aanlevering</DC.title>
+					<DC.type>ruimtelijk plan of omgevingsdocument</DC.type>
+					<DCTERMS.available>2025-11-03</DCTERMS.available>
+					<OVERHEIDop.publicationName>Gemeenteblad</OVERHEIDop.publicationName>
+					<is_privacygevoelig>false</is_privacygevoelig>
+					<is_spoedpublicatie>false</is_spoedpublicatie>
+					<sorteersleutel>12345</sorteersleutel>
+					<organisatieTooiId>https://identifier.overheid.nl/tooi/id/gemeente/gm0518</organisatieTooiId>
+					<creatiedatum>2025-11-03</creatiedatum>
+				</metadata>
+				<expression label="1">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>4827</size>
+							<hashcode>57ac0566a63ac3766e16daff8211ec5c338198ad40f79842add7fc3c6759741481f3c89333db8c3d0e277756f04f7a42b378f4420876162b6005ae73b164777a</hashcode>
+						</metadata>
+						<item label="gmb-2025-28251.xml" protocol="SMB" adres="./gmb/gmb-2025-28251/1/xml/gmb-2025-28251.xml"/>
+					</manifestation>
+					<manifestation label="metadataowms">
+						<metadata>
+							<size>1769</size>
+							<hashcode>1a5ee7f573807843ab2b9f9b5c2a9c5b807704cbbcb319d82159977f16c41e1a81a16994bbfe44ad4badb2bbd6e54f8c0e97ba1883c2a3846274d6d6cb634f53</hashcode>
+						</metadata>
+						<item label="metadata_owms.xml" protocol="SMB" adres="./gmb/gmb-2025-28251/1/metadataowms/metadata_owms.xml"/>
+					</manifestation>
+					<manifestation label="metadata">
+						<metadata>
+							<size>1915</size>
+							<hashcode>a986af25349256639e6ba7cd2a3cd38ac59cde9b8ebd4977139a6c0b19f5b031112ccb2831e1d61bb5beb498770d08cc5e615abc41f8c32ef8cc1edd2fee4987</hashcode>
+						</metadata>
+						<item label="metadata.xml" protocol="SMB" adres="./gmb/gmb-2025-28251/1/metadata/metadata.xml"/>
+					</manifestation>
+					<manifestation label="html">
+						<metadata>
+							<size>1319</size>
+							<hashcode>f1905b7c53f81684b58e66b4c6504944f1e2f41f972afae4eaeccd658990b4a399ddea25dbac787aaac98d4fdecc2173a33289a3c09f60767b1e9db6b2bd4700</hashcode>
+						</metadata>
+						<item label="gmb-2025-28251.html" protocol="SMB" adres="./gmb/gmb-2025-28251/1/html/gmb-2025-28251.html.zip"/>
+					</manifestation>
+					<manifestation label="pdf">
+						<metadata>
+							<size>959851</size>
+							<hashcode>1c20012d1e51e9187a2d85130dff9c412e15bac8838de6dc1d75750864a240cc870065c6a1a6c9a3439f74e2056e25781552c8e6a7d51291e2e614bb2317033f</hashcode>
+						</metadata>
+						<item label="gmb-2025-28251.pdf" protocol="SMB" adres="./gmb/gmb-2025-28251/1/pdf/gmb-2025-28251.pdf"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>Gemeenteblad</area>
+				<publicerenNa>2025-11-03T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-04T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-StcrtBvasRuimtelijkPlan-AS-BM/1.26/xml/MC-LVBB-StcrtBvasRuimtelijkPlan-AS-BM.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+			</stuurgegevens>
+		</toevoegenwork>
+	</xpo>
+	<!--cvdr wti-->
+	<xpo versie="4" id="b7dc3412-13b9-4716-ad27-38ebf2ed9db8" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<bijwerkenwork>
+			<work label="CVDR693439">
+				<wti label="CVDR693439.wti" protocol="SMB" adres="./cvdr/CVDR693439/CVDR693439.wti" size="4240" hash="404204e4c7543100e3480df9829ab74b589749b4aeb19e4bef533adeba1be277ba60f21d9fb9d33b99802923a17cc205035192ececed4db166e0d4fc87174b13"/>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-03T09:15:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-04T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+			</stuurgegevens>
+		</bijwerkenwork>
+	</xpo>
+	<!--cvdr regelingversie (3) nieuw-->
+	<xpo versie="4" id="3396f02c-3efc-40f3-9e65-12da8e82b4cd" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenexpression>
+			<work label="CVDR693439">
+				<metadata/>
+				<expression label="3">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1216</size>
+							<hashcode>9b32b2f918a9bc5686783111c03b6e57fbce59aaa2912a245d9b6e125e6047707eeae6676358bab4d2cacdb0e09497cf8294407b07d284b9da27f6ffdb2763dd</hashcode>
+						</metadata>
+						<item label="CVDR693439_3.xml" protocol="SMB" adres="./cvdr/CVDR693439/3/xml/CVDR693439_3.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>3</ExpressionLabel>
+			</stuurgegevens>
+		</toevoegenexpression>
+	</xpo>
+	<!--cvdr regelingversie (2) ingehaald, deze wordt afgebroken-->
+	<xpo versie="4" id="b402ce80-2632-4740-b902-9c78fc322afd" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+			<afbreken>
+				<work label="CVDR693439"/>
+				<stuurgegevens>
+					<area>CVDR</area>
+					<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+					<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+					<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+					<prioriteit>Normaal</prioriteit>
+					<ExpressionLabel>2</ExpressionLabel>
+				</stuurgegevens>
+			</afbreken>
+	</xpo>
+	<!--cvdr regelingversie (1) einddatum, deze wordt afgebroken-->
+	<xpo versie="4" id="ba8a507d-0a0d-4a7e-8a1d-8c9f1d3989d3" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<afbreken>
+			<work label="CVDR693439"/>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>1</ExpressionLabel>
+			</stuurgegevens>
+		</afbreken>
+	</xpo>
+	<!--cvdr regelingversie (1) nieuwe einddatum met eerdere publicerenVoor&Na-->
+	<xpo versie="4" id="ba8a507d-0a0d-4a7e-8a1d-8c9f1d3989d3" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<bijwerkenexpression>
+			<work label="CVDR693439">
+				<metadata/>
+				<expression label="1">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1414</size>
+							<hashcode>6ba416a4b50825e843087bde995de0143e8e433791cf1ae1a5af62a071eb2ef00967a079f8c5c72f4d3b8104603ae365dc4d0efaf3450174b94d46870288c82e</hashcode>
+						</metadata>
+						<item label="CVDR693439_1.xml" protocol="SMB" adres="./cvdr/CVDR693439/1/xml/CVDR693439_1.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>1</ExpressionLabel>
+			</stuurgegevens>
+		</bijwerkenexpression>
+	</xpo>
+	<!--cvdr regelingversie (2) ingehaald die wordt toegevoegd zonder inhoud-->
+	<xpo versie="4" id="3396f02c-3efc-40f3-9e65-12da8e82b4cd" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenexpression>
+			<work label="CVDR693439">
+				<metadata/>
+				<expression label="3">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1216</size>
+							<hashcode>9b32b2f918a9bc5686783111c03b6e57fbce59aaa2912a245d9b6e125e6047707eeae6676358bab4d2cacdb0e09497cf8294407b07d284b9da27f6ffdb2763dd</hashcode>
+						</metadata>
+						<item label="CVDR693439_3.xml" protocol="SMB" adres="./cvdr/CVDR693439/3/xml/CVDR693439_3.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>3</ExpressionLabel>
+			</stuurgegevens>
+		</toevoegenexpression>
+	</xpo>
+</XPOs>

@@ -8,6 +8,7 @@
  - ondertekend: 2022-01-02
  - bekendmaking: 2022-01-03
 
+Er dienen bij het inhaalbesluit veel XPO's afgebroken te worden, omdat anders de volgorde van PUP verkeerd gaat.
 
 1. initieel hoeven we niet te beschrijven.
 2. wijziging hoeven we niet te beschrijven. 
