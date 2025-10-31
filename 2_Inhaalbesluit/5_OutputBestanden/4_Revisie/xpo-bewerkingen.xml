@@ -1,0 +1,69 @@
+<XPOs>
+	<!--cvdr wti-->
+	<xpo versie="4" id="b7dc3412-13b9-4716-ad27-38ebf2ed9db8" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<bijwerkenwork>
+			<work label="CVDR693439">
+				<wti label="CVDR693439.wti" protocol="SMB" adres="./cvdr/CVDR693439/CVDR693439.wti" size="4240" hash="404204e4c7543100e3480df9829ab74b589749b4aeb19e4bef533adeba1be277ba60f21d9fb9d33b99802923a17cc205035192ececed4db166e0d4fc87174b13"/>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-03T09:15:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-04T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+			</stuurgegevens>
+		</bijwerkenwork>
+	</xpo>
+	<!--cvdr regelingversie (4) nieuw-->
+	<xpo versie="4" id="3396f02c-3efc-40f3-9e65-12da8e82b4cd" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<toevoegenexpression>
+			<work label="CVDR693439">
+				<metadata/>
+				<expression label="3">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1216</size>
+							<hashcode>9b32b2f918a9bc5686783111c03b6e57fbce59aaa2912a245d9b6e125e6047707eeae6676358bab4d2cacdb0e09497cf8294407b07d284b9da27f6ffdb2763dd</hashcode>
+						</metadata>
+						<item label="CVDR693439_3.xml" protocol="SMB" adres="./cvdr/CVDR693439/3/xml/CVDR693439_3.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>3</ExpressionLabel>
+			</stuurgegevens>
+		</toevoegenexpression>
+	</xpo>
+	<!--cvdr regelingversie (3) oud-->
+	<xpo versie="4" id="ba8a507d-0a0d-4a7e-8a1d-8c9f1d3989d3" userid="{68baf04f-e862-456e-bbef-74f6a4bec026}">
+		<bijwerkenexpression>
+			<work label="CVDR693439">
+				<metadata/>
+				<expression label="1">
+					<metadata/>
+					<manifestation label="xml">
+						<metadata>
+							<size>1414</size>
+							<hashcode>6ba416a4b50825e843087bde995de0143e8e433791cf1ae1a5af62a071eb2ef00967a079f8c5c72f4d3b8104603ae365dc4d0efaf3450174b94d46870288c82e</hashcode>
+						</metadata>
+						<item label="CVDR693439_1.xml" protocol="SMB" adres="./cvdr/CVDR693439/1/xml/CVDR693439_1.xml.zip"/>
+					</manifestation>
+				</expression>
+			</work>
+			<stuurgegevens>
+				<area>CVDR</area>
+				<publicerenNa>2025-11-28T00:00:00+01:00</publicerenNa>
+				<publicerenVoor>2025-11-29T00:00:00+01:00</publicerenVoor>
+				<configuratie>https://repository-acc.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-LVBB-Regeling-AS/1.11/xml/MC-LVBB-Regeling-AS.xml</configuratie>
+				<prioriteit>Normaal</prioriteit>
+				<ExpressionLabel>1</ExpressionLabel>
+			</stuurgegevens>
+		</bijwerkenexpression>
+	</xpo>
+</XPOs>

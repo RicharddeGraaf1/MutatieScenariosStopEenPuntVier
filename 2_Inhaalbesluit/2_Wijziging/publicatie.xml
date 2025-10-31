@@ -19,11 +19,11 @@
          <data:soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</data:soortBestuursorgaan>
       </data:BesluitMetadata>
       <data:Procedureverloop xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
-         <data:bekendOp>2025-07-10</data:bekendOp>
+      	<data:bekendOp>2021-12-16</data:bekendOp>
          <data:procedurestappen>
             <data:Procedurestap>
                <data:soortStap>/join/id/stop/procedure/stap_003</data:soortStap>
-               <data:voltooidOp>2025-07-10</data:voltooidOp>
+            	<data:voltooidOp>2021-12-14</data:voltooidOp>
             </data:Procedurestap>
          </data:procedurestappen>
       </data:Procedureverloop>
